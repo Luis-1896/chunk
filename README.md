@@ -1,5 +1,11 @@
 # ChunkAngular
 
+Information recopilate:
+https://ej2.syncfusion.com/angular/demos/uploader/chunk-upload/
+https://ej2.syncfusion.com/angular/demos/#/fluent2/uploader/chunk-upload
+https://ej2.syncfusion.com/angular/documentation/uploader/chunk-upload
+https://stackblitz.com/run?file=src%2Fapp.component.html
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
 
 ## Development server
